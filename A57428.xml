@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wonder of the world being a perfect relation of a young maid, about eighteen years of age, which hath not tasted of any food this two and fifty weeks ... : wherein is related the whole truth and no more, as it was taken from the mouth of the damsel and her mother, being a true account of her condition / written by Thomas Robins ...</title>
+            <author>Robins, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57428</idno>
+            <idno type="STC">Wing R1663</idno>
+            <idno type="STC">ESTC R4546</idno>
+            <idno type="EEBO-CITATION">12579574</idno>
+            <idno type="OCLC">ocm 12579574</idno>
+            <idno type="VID">63707</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 331:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wonder of the world being a perfect relation of a young maid, about eighteen years of age, which hath not tasted of any food this two and fifty weeks ... : wherein is related the whole truth and no more, as it was taken from the mouth of the damsel and her mother, being a true account of her condition / written by Thomas Robins ...</title>
+                  <author>Robins, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Passinger ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taylor, Martha, b. 1651.</term>
+               <term>Fasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63707:1" rendition="simple:additions"/>
+            <p>THE Wonder of the World; BEING A perfect Relation of a young Maid, a<g ref="char:EOLhyphen"/>bout eighteen years of age, which hath not taſted of any Food this two and fifty weeks, from this preſent day of my Writing, <hi>December,</hi> 22. Which may well be called a Wonder of Wonders.</p>
+            <p>Wherein is Related the whole truth, and no more: as it was taken from the mouth of the Damſel and her Mother; Being a true Account of her Condition.</p>
+            <p>Written by <hi>Thomas Robins</hi> B. of D. a VVell<g ref="char:EOLhyphen"/>wiſher to the Goſpel of Jeſus Chriſt.</p>
+            <q>Hear ye that are far off, what I have done, and ye that are near, acknowledge my might;</q>
+            <bibl>Iſaiah 33. 13.</bibl>
+            <p>Here you may ſee and read the Glory of God, as the VVord ſays, in the 11. of <hi>John</hi> and the 40. <hi>Verſe. Jeſus ſaith unto her, ſaid I not unto thee, if thou wouldſt believs, thou ſhouldeſt ſee the Glory of God?</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Paſſinger,</hi> at the three Bibles on the middle of <hi>London-Bridge.</hi> 1669.</p>
+         </div>
+         <div type="narrative">
+            <pb facs="tcp:63707:2"/>
+            <pb facs="tcp:63707:2"/>
+            <head>A Relation of a Gentle<g ref="char:EOLhyphen"/>man in <hi>Cheſterfield,</hi> a frequent Viſi<g ref="char:EOLhyphen"/>tant of <hi>Martha Taylor,</hi> for many months, alſo atteſted by divers others.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Artha Taylor</hi> of Over <hi>Hadton</hi> is Eighteen years of Age next <hi>Candlemas,</hi> having line in this extremity ſeven years come <hi>Candlemas,</hi> having taken no food ſince St. <hi>Andrews</hi> day, 1667. nor never had a Stool ſince <hi>Alhollou</hi> tide; and it is two years next Sunday, ſince her water could be de<g ref="char:EOLhyphen"/>ſerned to be water; and at the begining of her Faſt, ſhe ſpent much blood at her Mouth, Noſe, left eye; and tears of blood their continues bleeding by degrees: from St. <hi>Andrews</hi>-tide, 1667. till laſt <hi>Lady</hi>-day:
+<pb n="2" facs="tcp:63707:3"/>
+upon which her ſight fayled, and ſpeech, a<g ref="char:EOLhyphen"/>bout three weeks as that we could not well underſtand her; but it hath pleaſed God ſince to give her perfect memory, and deſires to have the Bible always with her, and ofter good Books; having many godly Expreſſi<g ref="char:EOLhyphen"/>ons, with ſtrength of faith: the Guts of her body are almoſt dried up, and no <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> comes from neither part, nor ſpits at mouth, nor hath ſhe parted with any blood, but Sunday after twelve a Clock<g ref="char:punc">▪</g> 
+               <hi>September</hi> 4. 1668. Theſe watched her; One from Over <hi>Hadton,</hi> and another from <hi>Gallon-grove,</hi> night and day, for ſeven days and ſix nights, to wit<g ref="char:punc">▪</g> 
+               <hi>Hannah Hollis, Dorothy Webſter, Alite Trantor, Mary Jones, Elizabeth Gloſſop<g ref="char:punc">▪</g> Jone Heath, Ann Taylor, Ann Bott, Ann Benford, Ruth Gates, Sith Whitt, Mary Goodwin, Dorothy Sheldon:</hi> from <hi>Gallon-grave, Sarah Buntin,</hi> Parſon <hi>Wilſon's</hi> Maid, <hi>Heſter Hatſeild<g ref="char:punc">▪</g> Mary Cotes, Dorothy Sheldon, Heſter Pigiard, Elizabeth Toft, Elizabeth Crane,</hi> Mr. <hi>Buxton's</hi> Maid, <hi>Barbarah Moſley, Ann Webſter:</hi> from <hi>Grutton, Elizabeth Milner,</hi> and <hi>Elizabeth Wolley,</hi> as two went out two came in; and Mr. <hi>Fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dhurſt</hi> of Over <hi>Hadton, George Brodhurſt; at</hi>
+               <pb n="3" facs="tcp:63707:3"/>
+my parting away, I took her by the hand, and finding her Pulſes very weake, and her nether parts being very cold, and by much ſpeaking cauſes to Heek-up; being in a vio<g ref="char:EOLhyphen"/>lent manner in that extremity, ſhe put out her hand, and were content with ſo much water, to the vallew of two drops; and her ſleep is quite gone, and ſhe thinks her time very ſhort, and her Spirits grow very low: there was ſome other things obſerved, which in modeſty ought not to be ſpoken off.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:63707:4"/>
+            <pb facs="tcp:63707:4"/>
+            <head>THE Wonder of the World: BEING A perfect Relation of a young Maid, a<g ref="char:EOLhyphen"/>bout eighteen years of age, which hath not taſted of any Food this two and fifty weeks, from this preſent day of my Writing, <hi>December,</hi> 22.</head>
+            <epigraph>
+               <bibl>Iſaiah 34. 1.</bibl>
+               <q>Come near ye Nations, to hear and hearken ye people<g ref="char:punc">▪</g> let the earth hear, and all that is therein, the world and all things that come forth of it.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">G</seg>Ood people, according as God called the people, for to hear his judgements, concerning his Church: Nay, He did not onely call the People, but he called the
+<pb n="6" facs="tcp:63707:5"/>
+whole earth; nay, the whole World: and all things that comes forth of it: Even ſo I deſire all Chriſtians within this our Na<g ref="char:EOLhyphen"/>tion; Nay, all in the whole World, to hear and to give their due attention, to what I here declare: concerning a very ſtrange and marvelous wonderful work of God, which is to be proved at this preſent time of my writing, within the County of Dar<g ref="char:EOLhyphen"/>by, near to <hi>Backwell,</hi> within a Mile, or ſomething more: at a little houſe noer Over Hadin, hard by the Mill:</p>
+            <p>Indéed I gave you a little Caviat con<g ref="char:EOLhyphen"/>ſerning this wonderſul ſtrange ſlory, which is nothing but true: I ſay I gave you a Character of it, which was dated, <hi>October</hi> 13. Which I had, by Relation, from many ſeveral perſons: but ſince that time, I my ſelf, the Author of this Book, hath been with the Maid, and hath had ſome diſcourſe with her, which hath given me a great deal more ſatisfaction then I had before; and ſo I thought it good to give every one as good ſatisfaction as lyeth in my power for to do: and by Gods aſſiſtance, I do intend to declare the truth as near as I can, and no more but what I ſaw and heard from the Mouth of the Damſel and
+<pb n="7" facs="tcp:63707:5"/>
+her Mother. For on <hi>December</hi> the 6. day, being the Lords day, I was with the Maid, and had ſome diſcourſe with her, conſern<g ref="char:EOLhyphen"/>ing her condition; For when this Damſel was about Eleven years old, it pleaſed the Lord to ſtrike her with a lamentable pain in the ſmall of her back, which was a great means to make her ſtoop very much, and it pleaſed the Lord that ſhe ſo continued for the ſpace of ſix years, and at the end of thoſe years her Stumach was taken from her, that ſhe could not eat as formerly ſhe could; and about St. <hi>An hews</hi> day, ſhe quite ſorſock her meat, and hath not taſted of any Food ſince: Save onely upon St. <hi>Thomas</hi> day in one thouſand ſix hundred ſixty ſeven, ſhe eat thrée ſlices of an Apple, but never ſince ſhe hath not taſted of any Rind of mortal Food, bread nor drink, or water, but as they wet her lips with a Spoon and Spring water; but now ſince <hi>Martlemas</hi> day, ſhe hath ſuckt of a Stu'd Pruan: but nothing can be perceived to go down into her body to this preſent day. And yet &amp;c is very lively, and likely for to live; She is Ninetéen years of Age about <hi>Candlemas</hi> next; ſhe is worn very bare of her body, very ſmall left but skin and bone,
+<pb n="8" facs="tcp:63707:6"/>
+much like the Picture of Annotomy, yet ſhe hath ſome fleſh left on her Arms, and her face, and ſome little blood in her Cheeks; and her lips, and her Spéech is very plain, and perica, as ever it was, yet her voice not all out ſo ſtrong as formerly, and yet very ſtrong and perfect, conſidering her con<g ref="char:EOLhyphen"/>dition, to the great amazement of all which ſees or hears her ſpeak, a thing which is almoſt paſt the belief of man, but yet very true, for I the Author of this Book can witneſs it for truth: For as I told you he ore, I was with her on the ſixt day of this preſent <hi>December,</hi> and had ſome diſcourſe with her, concerning her con<g ref="char:EOLhyphen"/>dition; and moſt of her diſcourſe is of the Scripture; concerning the duty which a Chriſtian oweth to God: ſhe doth not ad<g ref="char:EOLhyphen"/>vance her ſelf in any way, but doth con<g ref="char:EOLhyphen"/>feſs her ſelf a ſinner: truſting in the Lord for mercn, and the Lord grant every one of us ſo for to do.</p>
+            <p>She is very ready in the Scripture, is able to diſcourſe with any of the Clergy, ſhe is ſo very ready in diſputing of Scri<g ref="char:EOLhyphen"/>pture, and yet very ſmall Learning, when it pleaſed the Lord to ftrike her into this condition; and yet now as ready as if ſhe
+<pb n="9" facs="tcp:63707:6"/>
+had gone ſeven years to the School: a mighty providence, and a thing to be ad<g ref="char:EOLhyphen"/>mired at; but the Lord is ſuffiſient, and is able to do much more then man is able to expreſs.</p>
+            <p>But before I go any further, I do intend to give you a little more ſatisfaction con<g ref="char:EOLhyphen"/>cerning this Damſels taſt: for after it was known and ſpread abroad in the Country, the thing being ſo very ſtrange that the Country was very hard of beleiving it to be true, as ſome do to this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (will not believe) but all I can ſay to ſuch as theſe, I pray God that they have a true faith to believe in Ieſus Chriſt; for as for my own part, my conſcience tells me, I ought to believe it, for when I was with her, I could not conceive any way to the contrary. But indeed the hard belief of ſome men is not to be marvelled at: for in the time of our Saviour Jeſus Chriſt, when he walked on the earth. I ſay there was many that would not believe him, which I ſhall ſpeak more of hereafter.</p>
+            <p>But now to give you a little more ſatiſ<g ref="char:EOLhyphen"/>faction concerning this Damſels Faſt, as I told you before, ſome of the head of the Gentry which lives near the Damſel,
+<pb n="10" facs="tcp:63707:7"/>
+cauſed twenty Maids to be choſen out of ſeveral Towns thereabouts, to wake and watch with her, for to ſée how ſhe lived, that they might be the better ſatisfied in the truth; and theſe twenty Maids did watch and wake with her, every one her turn: and when they had done, they all agréed that ſhe received no food, but as they wet her lips with Spring Water in a Spoon: which is a great ſatisfaction to many, yet ſome as I told you before, very hard of belief; but ſince that tune for a further tryal, the moſt worthy and ho<g ref="char:EOLhyphen"/>nourable Earl of <hi>Devonſhire,</hi> for a further and more full ſatisfaction, he hath ſent fourteen Maids to wake and watch with her, that he might be the more ſatisfied in the truth; theſe Maids wake with her by two at a time, for four and twenty hours, and ſo every two did ſo, till they had waked ſeven nights and ſeven days, and when they had ſo done, they certified that ſhe did receive no mortal Food, but onely the wetting of her lips with Spring water in a ſpoon: and as it is very creda<g ref="char:EOLhyphen"/>bly reported, this hath given him very good ſatisfaction, and he doth believe it to be true.</p>
+            <p>
+               <pb n="11" facs="tcp:63707:7"/>Indéed it is a very ſtrange and miracu<g ref="char:EOLhyphen"/>lous wonder; nay, it may be called, A Wonder of all Wonders, for the like was never heard of before, neither in our days, nor in our Fore-Fathers days: No, not ſince the Lord created man; but we may aſſure our ſelves that it is the Will of the Lord, for to let us ſée his handy-work, for to try whether we do believe that there is a God that can work ſtrange and won<g ref="char:EOLhyphen"/>derful works; and yet there is ſome ſo hard of belief, that will not ſtick to ſay; I mean concerning this Maid; that there is ſome deſembleation in it, and will find ſome ſcornful Word or other concerning it; Nay, ſome will not ſtick to ſay, that there is Witch-craft in it.</p>
+            <p>But as for ſuch as thoſe I deſire not to ſpend no raſh judgement upon them, but leave them in the imagination of their own hearts: but as for my own part, I fully believe as the Word ſays, as you may find it in the 28. <hi>Chap.</hi> of the Prophet <hi>Iſaih,</hi> and about the 29. <hi>Verſe.</hi> the Words be theſe: <hi>This alſo cometh forth from the Lord of Hoſts, which is wonder<g ref="char:EOLhyphen"/>ful in counſel, and excellent in working:</hi> But indéed in theſe days mens hearts be
+<pb n="12" facs="tcp:63707:8"/>
+ſo deceitful that it is hard to find any, that his heart and tongue agrees together: for many in theſe our days which doth make a fair <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that they be very Reli<g ref="char:EOLhyphen"/>gious people, and fears the Lord in an out <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the World, and yet I ſay, ſuch as they, I can hear, doth ſpend their judgement very raſhly concerning this Maid, which I here have ſpoken off: which is contrary to the Word of God: But as for ſuch as thoſe, I would deſire them to look in the 29. <hi>Chapter</hi> of Iſaiah, and about the 13. <hi>Verſe</hi> and conſider with themſelves whether they be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or no, of that deep Hipocriſie, as the Lord calls it in the Con<g ref="char:EOLhyphen"/>tents of that Chapter, as you may ſind in the 13. <hi>Verſe. Wherefore the Lord ſaid, foraſmuch as this people draw near me with their mouth, and with their lips doth ho<g ref="char:EOLhyphen"/>nour me, but have removed their heart far from me<g ref="char:punc">▪</g> and their fear towards me, is tought by the Precept of Men:</hi> And fear we may ſee now the Lord was angry with this people in thoſe days, which made ſuch a fair outward ſhow with their lips, but yet their hearts was contrary; indéed I would deſire you to look into the 14. <hi>verſe</hi> of that ſame Chapter, and there you may
+<pb n="13" facs="tcp:63707:8"/>
+find it very plain; to underſtand the cauſe why the Lord doth work ſuch great and marvellous works; for as I have read it unto you in the 13. <hi>Verſe,</hi> he challenged them for their Hipocriſie; <hi>Therefore be<g ref="char:EOLhyphen"/>hold I proceed to do a marvellous work a<g ref="char:EOLhyphen"/>mong this people, even a marvellous work and a wonder;</hi> And indeed the Lord may, for any thing that I know, have ſpoken the very ſame words to us here in theſe our Nations; for to be ſure no Nation in theſe days could be déeper plunged in that dead<g ref="char:EOLhyphen"/>ly ſin of Hipocriſie, then we: for in the 13. <hi>verſe,</hi> you may underſtand that the Lord calls deſembleation, a déep Hipocriſie, in theſe Words, <hi>They honour me with their lips, but have removed their heart far from me:</hi> and I pray God there be not too many ſuch now adays: which may be a great cauſe of the Lords working this great and marvelous work here among us, now in this ſinful Nation; and hath made his choſen Ueſſel of this Damſel, for to work this great and marvelous work up<g ref="char:EOLhyphen"/>on; and for any thing that I know, may have ſpoken the very ſame words to her, as he ſpake in the 41. of <hi>Iſaiah,</hi> and a<g ref="char:EOLhyphen"/>bout the 9, and 10, <hi>Verſes.</hi> The Words
+<pb n="14" facs="tcp:63707:9"/>
+be theſe; I pray you take notice, it is worth your obſervation: <hi>Thou whom I have taken from the ends of the Earth, and called thee from the chief men thereof, and ſaid into thee, thou art my Servant, I have choſen thee, and not caſt thee away, fear thou not for I am with thee, be not diſmayed, for I am thy God; I will ſtrengthen thee, yea, I will help thee: yea, I will uphold thee with the right hand of my Righteouſneſs.</hi>
+            </p>
+            <p>Oh! What comfortable ſpeeches is here from the Lord to poor ſinners? and as I may ſay, why may not the Lord have ſpoken the very ſame words to this Dam<g ref="char:EOLhyphen"/>ſel? for truly I do fully believe that we may be bold to ſay, that the Lord hath made a choſen Ueſſel of her:</p>
+            <p>And by Gods help I will do my beſt en<g ref="char:EOLhyphen"/>deavour to lay it open unto you in theſe thrée Conditions.</p>
+            <p>And firſt of all, as the latter part of the 9. <hi>Verſe</hi> ſays, <hi>I have choſen thee, and not caſt thee away;</hi> For certainly the Lord hath choſen her for to work this great and wonderful work upon:</p>
+            <p>
+               <pb n="15" facs="tcp:63707:9"/>For in the firſt place, he hath brought her body into ſuch a condition, as the like was never known or heard of before ſince the creation of man; a body preſerved with life, and hath not taſted of any mortal food not of fifty wéeks, and ſome more: and therein it makes me the bolder to ſay, I do believe ſhe is one of the Lords choſen Ueſſels.</p>
+            <p>Secondly, She hath her ſpéech as perfect for any to underſtand, as ſhe had in the time of her health, and ſpeaketh very hearty, conſidering her weak condition of Body.</p>
+            <p>And thirdly, She hath a far better and more perfect Memory then formerly ſhe had in the time of her health, and eſpecially in diſcourſing of the Scriptures.</p>
+            <p>And theſe be my chiefeſt Reaſons why I ſay that I do believe ſhe is a choſen veſſel of the Lords.</p>
+            <p>But indéed, I do believe that if all the people were together, and did all the beſt they could, I mean all that hath béen
+<pb n="16" facs="tcp:63707:10"/>
+with her, and hath ſéen her in this condi<g ref="char:EOLhyphen"/>tion: I ſay, if they all ſhould do the beſt they can, they would have much ado to perſwade ſome to believe.</p>
+            <p>No, it is to be feared, ſome would ra<g ref="char:EOLhyphen"/>ther give out ſome ſcornſin ſpéeches, de<g ref="char:EOLhyphen"/>ſpiſeing any one which would perſwade them to believe it for truth.</p>
+            <p>But I deſire ſuch to look into the 13. of the <hi>Acts</hi> of the Apoſtles, and about the 41. <hi>verſe.</hi> and there you ſhall find what is ſpoken concerning ſuch as will not believe the Wondrous Works of the Lord; I pray take notice, and theſe be the words; <hi>Be<g ref="char:EOLhyphen"/>hold ye deſpiſers, and wonder and periſh, for I work a work in your days, a work which you ſhall in no wiſe be ieve, though a man declare it unto you.</hi>
+            </p>
+            <p>And indéed I do believe this place of Scripture was never ſo much fulfilled ſince it was Written, as it is now in our days, concerning this Maid, a Wonder the like never known before in any age: and is too true that there is too many Deſpiſers, and I pray God the Words of this Text, do not too ſoon fall upon ſome of them: for as the latter part of the Uerſe ſays: <hi>They will not believe, though a man declare it
+<pb n="17" facs="tcp:63707:10"/>
+unto them.</hi> Nay, there be ſome which have béen with the Damſel, and hath ſéen her, and yet they be very hard of belief: juſt like unto thoſe people which we read of in the Goſpel, which would not believe the words which our Saviour Ieſus Chriſt ſpake to them face to face: No, but they laughed him to ſcorn, as you may find it written in the eight of <hi>Luke,</hi> and about the fifty ſecond and fifty third <hi>verſes:</hi> and yet for all they laughed him to ſcorn, he let them ſee a wonderful ſtrange work, which he wrought upon the body of <hi>J<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> daugh<g ref="char:EOLhyphen"/>ter, in raiſing her from death to life.</p>
+            <p>And now in theſe our days, he hath béen pleaſed to work a very ſtrange work upon this Maid which I have here ſpoken off, to ſée if we will believe, and not to periſh through our unbeleiving hearts: for he that hath a ſtedlaſt heart to be<g ref="char:EOLhyphen"/>lieve in the Lord, be ſhall never fall: for the Lord will uphold him, as <hi>David</hi> ſays, in the 37. <hi>Pſalm,</hi> and the 24. <hi>verſe Though he fall he ſhall not be utterly caſt down for the Lord upholdeth him with his hand.</hi> Indéed, happy is that man whom the Lord upholdeth: I pray God give us
+<pb n="18" facs="tcp:63707:11"/>
+all grace ſo to lead our lives, that we may deſerve to call for his helping hand, and that we may deſire the Lord to lead us in the way of truth, as <hi>David</hi> ſaid, in the 25. <hi>Pſalm,</hi> and the 5. <hi>Verſe: Lead me in thy truth, and teach me, for thou are the God of my Salvation, on thee do I wait all the day:</hi> And the Lord of his mercy give us an grace to wait on the Lord day and night, for the good of our ſal<g ref="char:EOLhyphen"/>vation.</p>
+            <p>And to draw to a Concluſion, I ſhall but onely give you a Word or two in the way of Exhortation, and I pray God it may take place in the hearts of all that either reads it, or hears it read; for this I muſt néeds tell you, if you do deſire to have mercy at the Hands of God, at the latter day, you muſt ſtrive to kéep his Commandements: that is, to love one a<g ref="char:EOLhyphen"/>nother: which is, I am afraid, a very hard thing for a great many to do.</p>
+            <p>And agant, we ſhould be pittiful one to another as brethren; having compaſſion one of another, as you may find it Writ<g ref="char:EOLhyphen"/>ten in the 3. Chap. of the firſt Epiſtle of <hi>Peter,</hi> and the 8. <hi>verſe,</hi> in theſe words;
+<pb n="19" facs="tcp:63707:11"/>
+               <hi>Finally, be ye all of one mind, having compaſſion one of another:</hi> Love as Bre<g ref="char:EOLhyphen"/>thren, be pittiful, be courteous: indeed I would deſire every Chriſtian, to kéep and obey theſe Commandments, as for forth as they be able, for in ſo doing, we may come to be in love with God, and know him: As you may finde it in the 4. Chap. of the firſt Epiſtle of <hi>John,</hi> the 7. and 8. <hi>verſes.</hi> In theſe words, <hi>Belo<g ref="char:EOLhyphen"/>ved, let us love one another, for love is of God, and every one that loveth, is born of God, and knoweth God; He that loveth not, knoweth not God, for God is love.</hi>
+            </p>
+            <p>O then let us <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by all poſſible means to love one another as Brethren, and then may we boldly ſay we love God, if we had but this brotherly love, and would ſtrive to keep his Commande<g ref="char:EOLhyphen"/>ments.</p>
+            <p>As you may find in the firſt Epiſtle of <hi>John,</hi> and the 2. <hi>verſe.</hi> For he ſays there, <hi>By this we know that we love the children of God, when we love God and keep his Commandements.</hi>
+            </p>
+            <p>And the Lord grant us all grace ſo to do.</p>
+            <p>
+               <pb n="20" facs="tcp:63707:12"/>And now to conclude, I deſire every one to conſider with themſelves, what they have heard here in this little Book; for although the Uollume be but ſmall, yet the matter is of a great ballew, for it conterus very much to the ſalvati<g ref="char:EOLhyphen"/>on of man, though in ſome part of it, ſome may ſay it conterus worldly affairs: <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch I make this, although that my former part of this book, be but, as you may ſay, worldly news: yet I ſay it may well be called heavenly matter: For ſo ſtrange a wonder was never heard on before: and my conſcience tells me, I may boldly ſay it is a fore <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to bring us into the way of Repentance: Which I pray God to give us all grace ſo to do; and that for Jeſus Chriſt his ſake.</p>
+            <p>And ſo the God of Peace, Love, and Uni<g ref="char:EOLhyphen"/>ty, Bleſs, Guide, and Keep us all, this time, hence forth, and for ever-more,</p>
+            <closer>Amen.</closer>
+            <closer>
+               <signed>I am yours in Chriſt, THOMAS ROBINS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63707:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
